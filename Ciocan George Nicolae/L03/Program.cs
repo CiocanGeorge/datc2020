@@ -28,7 +28,7 @@ namespace L03
         };
 
         var clientId="914728126287-co0g1dc07h6sfnq2fqchd3pl1i6ovv4u.apps.googleusercontent.com";
-        var clientSecret="aUPmh5BMSJjdXrTTDlmNrDB";
+        var clientSecret="aUPmh5BMSJjdXrTTDlmNrDB-";
         
            var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
                 new ClientSecrets

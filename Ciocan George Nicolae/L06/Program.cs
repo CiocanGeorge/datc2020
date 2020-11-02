@@ -7,7 +7,7 @@ using Microsoft.WindowsAzure.Storage.Table;
 using Models;
 using Newtonsoft.Json;
 
-namespace L04
+namespace L06
 {
     class Program
 	    {
